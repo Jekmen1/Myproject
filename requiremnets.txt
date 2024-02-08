@@ -1,0 +1,7 @@
+install requests,for take information from Weather api and receipt Api
+
+import json,for received information
+
+import csv and os file,that to save the received information
+
+
